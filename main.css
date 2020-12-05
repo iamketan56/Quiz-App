@@ -1,0 +1,107 @@
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("https://media.proprofs.com/images/QM/user_images/2503852/1571657721.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  font-family: sans-serif;
+  text-align: center;
+  color: wheat;
+  font-size: 35px;
+}
+ul {
+  list-style: none;
+}
+li {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 2em;
+  color: #feb135;
+  text-align: left;
+}
+input[type="radio"] {
+  border: 0px;
+  width: 20px;
+  height: 2em;
+}
+p {
+  font-family: sans-serif;
+}
+.quizcontainer {
+  background-color: darkcyan;
+  border-radius: 10px;
+  width: 50%;
+  margin: auto;
+  margin-top: 30px;
+  padding-top: 5px;
+  position: relative;
+}
+#head {
+  text-align: center;
+  width: 60%;
+  margin: auto auto;
+  font-size: 50px;
+  margin-bottom: 0px;
+  margin-top: 100px;
+  font-weight: bold;
+  color: wheat;
+}
+.nextButton {
+  border-radius: 6px;
+  width: 150px;
+  height: 40px;
+  text-align: center;
+  background-color: #ccc000;
+  color: black;
+  font-family: sans-serif;
+  font-weight: bold;
+  position: relative;
+  margin: auto;
+  padding-top: 20px;
+  cursor: pointer;
+}
+
+.question {
+  font-family: sans-serif;
+  font-size: 2em;
+  width: 90%;
+  height: auto;
+  margin: auto;
+  border-radius: 6px;
+  background-color: black;
+  text-align: center;
+  color: wheat;
+}
+
+.quizmessage {
+  background-color: peachpuff;
+  border-radius: 6px;
+  width: 30%;
+  margin: auto;
+  text-align: center;
+  padding: 2px;
+  font-family: sans-serif;
+  color: red;
+}
+.choicelist {
+  font-family: "Times New Roman", Times, serif;
+  color: blueviolet;
+}
+.result {
+  width: 30%;
+  height: auto;
+  border-radius: 6px;
+  background-color: linen;
+  margin: auto;
+  margin-bottom: 35px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 30px;
+}
+marquee {
+  margin-top: 50px;
+  font-size: 40px;
+  color: aliceblue;
+}
