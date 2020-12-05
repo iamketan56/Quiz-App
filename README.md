@@ -1,2 +1,2 @@
 # Quiz-App
- Using JavaScript
+ Using JavaScript (JQuery)
